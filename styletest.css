@@ -1,0 +1,21 @@
+a:link {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: underline;
+	color: #FF0000;
+	font-style: normal;
+	font-weight: bold;
+
+
+}
+a:visited {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #00FF00;
+	font-weight: bold;
+	font-variant: small-caps;
+}
+.main {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12px;
+}
